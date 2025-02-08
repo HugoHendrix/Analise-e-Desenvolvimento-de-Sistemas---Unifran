@@ -25,14 +25,14 @@ ASPX, JSP, etc)
 
 ## Pesquisa de Links relacionados para leitura
 
-- ![Web 1, 2, 3 e… Web 5?! Cadê a Web 4?](https://mittechreview.com.br/web-1-2-3-e-web-5-cade-a-web-4/)
+- [Web 1, 2, 3 e… Web 5?! Cadê a Web 4?](https://mittechreview.com.br/web-1-2-3-e-web-5-cade-a-web-4/)
 
 Importante destacar, aqui, que uma das bibliotecas de programação mais populares usadas para escrever o código Ethereum é chamada web3.js. E existe também uma fundação, a Web3 Foundation, que é dirigida pelos fundadores da rede Polkadot.
--![Web3 JS](https://web3js.readthedocs.io/en/v1.2.1/)
--![Web3 Foundaution](https://web3.foundation/)
+- [Web3 JS](https://web3js.readthedocs.io/en/v1.2.1/)
+- [Web3 Foundaution](https://web3.foundation/)
 
 Em termos gerais, o principal objetivo da Web 3 é tenta resolver o maior problema da Web 2: a coleta de dados pessoais por redes privadas que possibilitam o capitalismo de vigilância, um verdadeiro marketplace de comportamentos futuros.
--![Capitalismo de Vigilância](https://pt.wikipedia.org/wiki/apitalismo_de_vigil%C3%A2ncia)
+- [Capitalismo de Vigilância](https://pt.wikipedia.org/wiki/apitalismo_de_vigil%C3%A2ncia)
 
 ## Resumo do artigo sobre a WEB
 
@@ -306,9 +306,6 @@ O **HTML5** é uma evolução do **HTML (HyperText Markup Language)**, trazendo 
 
 ---
 
-Aqui está um resumo bem estruturado em **Markdown** sobre **HTML Semântico**:  
-
-```md
 # 📌 HTML Semântico  
 
 ## 🔍 O que é HTML Semântico?  
@@ -394,9 +391,6 @@ O **HTML Semântico** refere-se ao uso de tags que possuem **significado própri
 
 ---
 
-Aqui está um comparativo bem estruturado em **Markdown** sobre **HTML vs XML**:  
-
-```md
 # 📌 HTML vs XML  
 
 ## 🔍 O que é HTML?  
@@ -467,11 +461,8 @@ O **XML (Extensible Markup Language)** é uma **linguagem de marcação** usada 
 
 💡 **Conclusão:** O HTML e o XML são linguagens de marcação, mas com finalidades diferentes. Enquanto o HTML se concentra na exibição do conteúdo, o XML é usado para transportar e organizar informações.  
 
-```
+---
 
-Aqui está uma explicação sobre a diferença entre **elementos em bloco** e **elementos em linha** em HTML, organizada em **Markdown**:
-
-```md
 # 📌 Elementos em Bloco vs. Elementos em Linha
 
 ## 🔍 O que são elementos em **Bloco**?  
@@ -527,9 +518,6 @@ Elementos **em linha** são aqueles que **não quebram a linha** e apenas ocupam
 
 ---
 
-Aqui está o conteúdo sobre **Imagens**, **Links**, **Caracteres Especiais e Símbolos** em **Markdown**:
-
-```md
 # 📌 Imagens, Links, Caracteres Especiais e Símbolos em HTML
 
 ## 🔍 **Imagens em HTML**  
@@ -612,4 +600,4 @@ Em HTML, alguns caracteres têm significados especiais (como `<`, `>`, `&`). Par
 - Sempre use a tag `<img>` com o atributo **alt** para garantir acessibilidade.
 - Utilize a tag `<a>` para criar links interativos, tornando o conteúdo navegável.
 - Use entidades de caracteres quando for necessário exibir símbolos que são reservados no HTML.
-```
+

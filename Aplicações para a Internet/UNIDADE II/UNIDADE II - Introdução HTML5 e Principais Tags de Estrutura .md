@@ -62,10 +62,10 @@ A estrutura básica de um documento HTML inclui:
 </html>
 ```
 
-- **<!DOCTYPE html>**: Declara o tipo de documento como HTML5.
-- **<html lang="pt-br">**: Define o idioma da página como português.
-- **<head>**: Contém informações sobre o documento (metadados, links para CSS, etc.).
-- **<body>**: Contém o conteúdo visível da página.
+- ```<!DOCTYPE html>```: Declara o tipo de documento como HTML5.
+- ```<html lang="pt-br">```: Define o idioma da página como português.
+- ```<head>```: Contém informações sobre o documento (metadados, links para CSS, etc.).
+- ```<body>```: Contém o conteúdo visível da página.
 
 ---
 
@@ -129,39 +129,7 @@ Alguns caracteres têm um significado especial no HTML e não podem ser usados d
 
 ---
 
-# Espaços em Branco e Novas Linhas
 
-## ⚡ Espaços em Branco
-
-Em HTML, os **espaços em branco** (gerados pela tecla de espaço ou pelo TAB) são usados para separar palavras e termos. No entanto, **vários espaços em sequência** são interpretados da mesma maneira que um único espaço.
-
-### Exemplo:
-```html
-Este texto é separado por espaços únicos.
-Este texto é separado por espaços únicos.
-```
-
-Ambos os exemplos acima resultam no **mesmo** conteúdo exibido na página, com um único espaço entre as palavras.
-
----
-
-## 🌟 Novas Linhas
-
-As **novas linhas** (inseridas ao pressionar a tecla Enter) em HTML não são consideradas como elementos de formatação visual. Elas servem apenas para **organizar o código-fonte**. Assim, se não colocarmos novas linhas, o conteúdo será exibido da mesma forma.
-
-### Exemplo:
-```html
-Este texto está na primeira linha.
-Este texto está na segunda linha.
-```
-
-Ambas as linhas são exibidas da mesma forma, independentemente de como estão organizadas no código.
-
----
-
-Aqui está o conteúdo sobre **Tags Especiais de Organização de Texto**, **Elementos de Estilo**, **Listas** e **Tabelas** em formato **Markdown**:
-
-```md
 # Tags Especiais de Organização de Texto
 
 ## ✨ `<p>` - Delimita um Parágrafo
