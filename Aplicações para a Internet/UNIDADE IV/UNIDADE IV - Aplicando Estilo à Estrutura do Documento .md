@@ -1,8 +1,4 @@
-Aqui está a revisão e aprimoramento do trecho que você enviou, com mais clareza e exemplos:  
-
----
-
-## Aplicando Estilo à Estrutura do Documento  
+# Aplicando Estilo à Estrutura do Documento  
 
 ### O que é CSS (Cascading Style Sheets) ou Folha de Estilo em Cascata?  
 
