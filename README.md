@@ -42,13 +42,13 @@
 ## ✅ **Progresso**
 📌 _Marcar as disciplinas conforme avançamos no semestre._  
 
-- [ ] **Sistemas Operacionais** ✅ _(Concluído em 28/02/25)_  
-- [ ] **Probabilidade e Estatística** ✅ _(Concluído em 31/03/25)_  
-- [ ] **Organização e Arquitetura de Computadores** ✅ _(Concluído em 31/05/25)_  
-- [ ] **Tópicos de Computação e Informática** _(Em andamento)_  
-- [ ] **Avaliação Integrada de Competências** _(Em andamento)_  
-- [ ] **Aplicações para Internet** _(Em andamento)_  
-- [ ] **Plano de Acompanhamento de Carreira** _(Em andamento)_  
+- [ ] **Sistemas Operacionais** 
+- [ ] **Probabilidade e Estatística** 
+- [ ] **Organização e Arquitetura de Computadores** 
+- [ ] **Tópicos de Computação e Informática** 
+- [ ] **Avaliação Integrada de Competências** 
+- [x] **Aplicações para Internet**  ✅
+- [x] **Plano de Acompanhamento de Carreira** ✅
 
 ---
 
