@@ -45,7 +45,7 @@
 - [ ] **Sistemas Operacionais** 
 - [ ] **Probabilidade e Estatística** 
 - [ ] **Organização e Arquitetura de Computadores** 
-- [ ] **Tópicos de Computação e Informática** 
+- [X] **Tópicos de Computação e Informática** ✅
 - [ ] **Avaliação Integrada de Competências** 
 - [x] **Aplicações para Internet**  ✅
 - [x] **Plano de Acompanhamento de Carreira** ✅
