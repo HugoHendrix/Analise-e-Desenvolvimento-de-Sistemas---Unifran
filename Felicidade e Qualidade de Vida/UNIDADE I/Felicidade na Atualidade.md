@@ -58,4 +58,3 @@ Harari alerta que, para garantir felicidade no futuro, precisaremos **aprender a
 
 🔹 **Tecnologia e desafios modernos:** O mundo digital nos dá conforto, mas também cria novas ansiedades – precisamos aprender a equilibrar isso para viver com mais felicidade.  
 
-💡 **A felicidade não é um destino, mas um caminho de descobertas e equilíbrio na vida.** 🚀
