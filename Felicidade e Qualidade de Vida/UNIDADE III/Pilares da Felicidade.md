@@ -68,19 +68,3 @@ Os pilares da felicidade são frequentemente discutidos em diferentes abordagens
 Os pilares da felicidade incluem **relacionamentos positivos**, **propósito**, **emoções positivas**, **engajamento**, **autonomia**, **saúde física e mental**, **gratidão**, **resiliência**, **equilíbrio** e, para alguns, **espiritualidade**. Esses elementos, quando cultivados, contribuem para uma vida mais feliz e significativa.
 
 ---
-
-
-4 OBSTACULOS ESTRUTURAIS DA BUSCA INGENUA PELA Felicidade
-
-1 AMBIENTE, GUERRA CONSTANTE EU SE ADAPATAR AO AMBIENTE.
-2 prazer e desprazer, sistema nervoso. Só existem em dupla.
-3 principio de realidade x principio de prazer
-4 RELAÇÃO COM O OUTRO DISSINTOINIA COM O OUTRO, VIVER EM SOCIEDADE GERA STRESS. EM ALGUNS MOMENTOS SOU FONTE DE AFLIÇÃO E ALGUNS MOMENTOS FONTES DE ORGULHO.
-
-
-
-5 PASSOS PARA Felicidade
-COMER E DORMIR BEM
-ESTAR FOCADO
-FAZER EXERCICIO
-BUSCAR BOAS EXPERIENCIAS
